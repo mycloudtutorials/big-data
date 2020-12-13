@@ -1,0 +1,29 @@
+{
+  "name": "big-data",
+  "version": "1.0.0",
+  "description": "mycloudtutorials.com - Big Data technologies, specially for AWS, for example, Kinesis, S3 Data Lakes, EalsticSearch, EMR, Glue, Redshift etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mycloudtutorials/big-data.git"
+  },
+  "keywords": [
+    "Amazon",
+    "Kinesis",
+    "Firehose",
+    "S3",
+    "DataLake",
+    "EMR",
+    "Glue",
+    "Redshift"
+  ],
+  "author": "Girish Jaju - mycloudtutorials.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mycloudtutorials/big-data/issues"
+  },
+  "homepage": "https://github.com/mycloudtutorials/big-data#readme"
+}
